@@ -1,0 +1,122 @@
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+h1 { 
+
+position: relative;
+color: black;
+text-align: center;
+font-family: "Carter One";
+text-shadow: 2px 2px 5px red;
+margin-top: 60px;
+margin-bottom: 0;
+}
+
+h2 {
+
+position: relative;
+color: black;
+text-align: center;
+font-family: "Carter One";
+text-shadow: 2px 2px 5px red;
+margin-top: 0;
+margin-bottom: 0;
+
+}
+
+h3 {
+
+position: relative;
+color: black;
+text-align: center;
+font-family: "Carter One";
+text-shadow: 2px 2px 5px red;
+margin-top: 0;
+margin-bottom: 0;
+
+    
+}
+
+p {
+
+position: relative;
+color: black;
+font-family: "Carter One";
+text-shadow: 2px 2px 5px red;
+text-align: center;
+margin-bottom: 0;
+margin-top: 100px;
+
+}
+
+
+table {
+
+    position: relative;
+    margin-left: 38rem;
+    text-align: center;
+    font-family: "Carter One";
+    font-size:xx-large;
+    margin-top: 0;
+}
+
+td {
+    position: relative;
+    background: rgb(93, 91, 91);
+    border-style:solid;
+    border-color: red;         
+    width: 300px;
+    font-family: "Carter One";
+    text-shadow: 2px 2px 5px red;
+    color: white;
+    margin-top: 0;
+
+}
+
+button {
+    position: relative;
+    background: rgb(93, 91, 91);
+    border-style:solid;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    font-family: "Carter One";
+    text-shadow: 2px 2px 5px red;
+    border-color: rgb(40, 39, 39);
+    border-color: red;
+    font-size: large;
+    margin-left: 1rem;
+    
+   
+
+
+}
+
+input {
+    position: relative;
+    background: rgb(93, 91, 91);
+    border-style:solid;
+    border-color: red;
+    margin-left: 35rem;
+    height: 80px;
+    color: white;
+    font-family: "Carter One";
+    text-shadow: 2px 2px 5px red;
+    font-size: xx-large;
+    margin-right: 1rem;
+    margin-top: 2rem;
+}
+
+.addme{
+    margin-left: 40rem;
+    margin-top: 2rem;
+}
+ 
+
+
